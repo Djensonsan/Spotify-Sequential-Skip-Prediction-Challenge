@@ -140,4 +140,4 @@ Project Link: [https://github.com/Djensonsan/Spotify-Sequential-Skip-Prediction-
 [license-shield]: https://img.shields.io/github/license/Djensonsan/Spotify-Sequential-Skip-Prediction-Challenge.svg?style=flat-square
 [license-url]: https://github.com/Djensonsan/Spotify-Sequential-Skip-Prediction-Challenge/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/jens-leysen
+[linkedin-url]: https://www.linkedin.com/in/jens-leysen
